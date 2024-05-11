@@ -11,7 +11,8 @@
     &__image {
         outline: 1px solid red;
         position: relative;
-        background-image: url("/images/image-currency.jpg");
+        // background-image: url("/images/bg-intro-mobile.svg");
+        background-image: url("./images/image-currency.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -43,7 +44,7 @@
                 height: 100%;
                 // background-image: url("/images/bg-intro-desktop.svg");
 
-                background-image: url("/images/image-currency.jpg");
+                background-image: url("./images/image-currency.jpg");
                 background-repeat: no-repeat;
                 background-position: center bottom;
                 // width: 150%;
